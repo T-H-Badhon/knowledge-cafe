@@ -1,0 +1,10 @@
+.Body-container{
+    display: grid;
+    grid-template-columns: 4fr 3fr;
+    gap: 20px;
+}
+.bookmark-container{
+    height: 600px;
+    position: sticky;
+    top: 0px;
+}

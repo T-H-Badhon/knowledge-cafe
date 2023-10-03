@@ -1,0 +1,38 @@
+[
+    {
+        "id":5001,
+        "authorName": "Jhangker Mahbub",
+        "authorQualification": "Msc in CSE",
+        "authorImage":"../src/assets/images/boy1.png",
+        "blogTitle":"How React work in Browser",
+        "blogDuration": 10,
+        "blogImage": "../src/assets/images/1.jpg"
+    },
+    {
+        "id":5002,
+        "authorName": "Abdullah Al Mamun",
+        "authorQualification": "Msc in CSE",
+        "authorImage":"../src/assets/images/boy2.png",
+        "blogTitle":"How Bootstrap work in Browser",
+        "blogDuration": 8,
+        "blogImage": "../src/assets/images/2.png"
+    },
+    {
+        "id":5003,
+        "authorName": "Selim Ur Rahman",
+        "authorQualification": "Msc in CSE",
+        "authorImage":"../src/assets/images/girl1.jpg",
+        "blogTitle":"How Javascript work in Browser",
+        "blogDuration": 5,
+        "blogImage": "../src/assets/images/3.png"
+    },
+    {
+        "id":5004,
+        "authorName": "Abir Sailkupa",
+        "authorQualification": "Msc in CSE",
+        "authorImage":"../src/assets/images/girl2.jpg",
+        "blogTitle":"How React work in Browser",
+        "blogDuration": 10,
+        "blogImage": "../src/assets/images/4.jpg"
+    }
+]
